@@ -23,3 +23,5 @@ CREATE TABLE students (
     email VARCHAR(100)
 );
 ```
+
+I would be continuing this today. the issue is that i was setting up my windows pc for flutter and needed to do some light work on it for a client before i continue with this.
